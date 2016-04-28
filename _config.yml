@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://leonardomatte.github.io
+title: Leonardo's Personal Blog
+tagline: wilkommen zu meinen neuen blog
+description: My awesome new site
+paginate: 2
